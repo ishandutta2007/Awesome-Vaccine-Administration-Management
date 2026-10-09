@@ -69,7 +69,7 @@ Contributions welcome! 🤝 Open a PR to add/update entries. Keep descriptions f
 
 ## 🌐 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars_Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 ### 🚚 Supply Chain & Logistics
 
