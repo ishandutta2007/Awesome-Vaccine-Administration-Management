@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Vaccine-Administration-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vaccine-Administration-Management?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Vaccine-Administration-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vaccine-Administration-Management?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Vaccine-Administration-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Vaccine-Administration-Management?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Vaccine-Administration-Management/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,7 +69,7 @@ Contributions welcome! 🤝 Open a PR to add/update entries. Keep descriptions f
 
 ## 🌐 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 ### 🚚 Supply Chain & Logistics
 
@@ -149,7 +149,7 @@ Contributions welcome! 🤝 Open a PR to add/update entries. Keep descriptions f
 
 1. Fork the repository 🍴
 2. Add/edit entries in `README.md` following the tabular or badge format.
-3. Ensure descriptions are objective and include relevant pricing, sizing, or star badges.
+3. Ensure descriptions are objective and include relevant pricing, sizing, or Stars_Badges.
 4. Submit a Pull Request (PR) with a clear description 🚀
 
 Check out our curated list guidelines on [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)!
